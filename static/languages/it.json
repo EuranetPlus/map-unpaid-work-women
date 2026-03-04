@@ -1,13 +1,12 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Quanto lavoro non retribuito svolgono le donne?",
+  "subtitle": "Nel 2021, la media dei minuti dedicati dalle donne al lavoro non retribuito al giorno è di 241.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Il lavoro non retribuito comprende la cura dei familiari, l'assistenza all'infanzia e agli adulti, i lavori domestici di routine e la spesa. Non sono disponibili dati per Cipro, Repubblica Ceca, Croazia e Slovacchia.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Donne delle Nazioni Unite (2026)",
   "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
   "legend1": "Nessun dato disponibile",
+  "customUnitLabel": "minuti medi trascorsi al giorno",
   "tooltipExtraInfoLabel": "clicca qui"
 }
