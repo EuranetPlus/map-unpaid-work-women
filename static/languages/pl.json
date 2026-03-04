@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Ile nieodpłatnej pracy wykonują kobiety?",
+  "subtitle": "W 2021 roku kobiety spędzały średnio 241 minut dziennie na wykonywaniu nieodpłatnej pracy.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Praca nieodpłatna obejmuje opiekę nad członkami gospodarstwa domowego, opiekę nad dziećmi i dorosłymi, rutynowe prace domowe i zakupy. Brak danych dla Cypru, Czech, Chorwacji i Słowacji.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Kobiety ONZ (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "średnia liczba minut spędzonych dziennie",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
