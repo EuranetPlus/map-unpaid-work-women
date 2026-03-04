@@ -1,13 +1,12 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koliko neplaćenog rada obavljaju žene?",
+  "subtitle": "Prosječan broj minuta koje su žene 2021. godine dnevno provodile obavljajući neplaćeni posao iznosio je 241.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Neplaćeni rad uključuje brigu o članovima kućanstva, brigu o djeci i odraslima, rutinske kućanske poslove i kupovinu. Nema podataka za Cipar, Češku, Hrvatsku i Slovačku.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "UN žene (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
+  "customUnitLabel": "prosječno provedenih minuta dnevno",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
