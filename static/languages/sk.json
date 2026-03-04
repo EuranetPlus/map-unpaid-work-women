@@ -1,13 +1,12 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Koľko neplatenej práce vykonávajú ženy?",
+  "subtitle": "Priemerný počet minút, ktoré ženy v roku 2021 strávili vykonávaním neplatenej práce denne, bol 241.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Neplatená práca zahŕňa starostlivosť o členov domácnosti, starostlivosť o deti a dospelých, bežné domáce práce a nakupovanie. Za Cyprus, Česko, Chorvátsko a Slovensko nie sú uvedené žiadne údaje.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Ženy OSN (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
   "legend1": "Nie sú k dispozícii žiadne údaje",
+  "customUnitLabel": "priemerný počet minút strávených za deň",
   "tooltipExtraInfoLabel": "Kliknite sem"
 }
