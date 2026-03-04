@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik daudz neapmaksāta darba sievietes veic?",
+  "subtitle": "Vidējais minūšu skaits, ko sievietes pavadīja, veicot neapmaksātu darbu 2021. gadā, bija 241 minūte dienā.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Nealgots darbs ietver mājsaimniecības locekļu aprūpi, bērnu un pieaugušo aprūpi, ikdienas mājas darbus un iepirkšanos. Dati par Kipru, Čehiju, Horvātiju un Slovākiju nav sniegti.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "ANO sievietes (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "vidēji dienā pavadītās minūtes",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
