@@ -1,13 +1,12 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kiek neapmokamo darbo dirba moterys?",
+  "subtitle": "2021 m. moterys neapmokamam darbui skyrė vidutiniškai 241 minutę per dieną.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Neapmokamas darbas apima rūpinimąsi namų ūkio nariais, vaikų ir suaugusiųjų priežiūra, įprastus namų ruošos darbus ir apsipirkimą. Duomenų apie Kiprą, Čekiją, Kroatiją ir Slovakiją nepateikta.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "UN Women (2026 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "customUnitLabel": "vidutiniškai per dieną praleistų minučių",
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
