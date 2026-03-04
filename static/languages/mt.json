@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm xogħol mhux imħallas qed jipprovdu n-nisa?",
+  "subtitle": "Il-medja ta' minuti li n-nisa qattgħu jwettqu xogħol mhux imħallas fl-2021 kuljum hija ta' 241.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Xogħol mhux imħallas jinkludi l-kura tal-membri tad-dar, il-kura tat-tfal u tal-adulti, xogħol tad-dar ta’ rutina u xiri. Ma ngħatat l-ebda dejta għal Ċipru, iċ-Ċekja, il-Kroazja u s-Slovakkja.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "NU Nisa (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "minuti medji mqattgħin kuljum",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
