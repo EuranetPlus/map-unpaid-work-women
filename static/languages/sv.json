@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur mycket obetalt arbete utför kvinnor?",
+  "subtitle": "Det genomsnittliga antalet minuter som kvinnor spenderade på obetalt arbete per dag år 2021 var 241.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Obetalt arbete inkluderar att ta hand om hushållsmedlemmar, barn- och vuxenomsorg, rutinmässigt hushållsarbete och inköp. Inga uppgifter lämnas för Cypern, Tjeckien, Kroatien och Slovakien.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "UN Women (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "genomsnittliga minuter spenderade per dag",
   "tooltipExtraInfoLabel": "Klicka här"
 }
